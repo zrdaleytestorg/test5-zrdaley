@@ -8,7 +8,7 @@
       "output": "",
       "comparison": "exact",
       "timeout": 10,
-      "points": 10
+      "points": null
     }
   ]
 }
